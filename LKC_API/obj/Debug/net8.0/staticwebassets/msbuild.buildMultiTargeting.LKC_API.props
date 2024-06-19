@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LKC_API.props" />
+</Project>
